@@ -2,11 +2,11 @@
 
 **让正文、人物设定与 AI 创作任务回到同一张书桌。**
 
-面向中文小说作者的 Windows 桌面创作工作台，现开放 **0.1.6 试用版**下载，欢迎用真实写作需求参与打磨。
+面向中文小说作者的 Windows 桌面创作工作台，现开放 **0.1.8 试用版**下载，欢迎用真实写作需求参与打磨。
 
-[**下载 Windows 安装程序**](https://github.com/CX0072/molan-desktop/releases/download/v0.1.6/MolanCreativeStudio_Setup_0.1.6_Windows_x64.exe) · [**下载完整压缩安装包**](https://github.com/CX0072/molan-desktop/releases/download/v0.1.6/MolanCreativeStudio_0.1.6_Windows_x64.zip) · [所有发行版与更新记录](https://github.com/CX0072/molan-desktop/releases) · [提交建议或问题](https://github.com/CX0072/molan-desktop/issues/new/choose)
+[**下载 Windows 安装程序**](https://github.com/CX0072/molan-desktop/releases/download/v0.1.8/MolanCreativeStudio_Setup_0.1.8_Windows_x64.exe) · [**下载完整压缩安装包**](https://github.com/CX0072/molan-desktop/releases/download/v0.1.8/MolanCreativeStudio_0.1.8_Windows_x64.zip) · [所有发行版与更新记录](https://github.com/CX0072/molan-desktop/releases) · [提交建议或问题](https://github.com/CX0072/molan-desktop/issues/new/choose)
 
-> 后续版本请优先从[最新发行页](https://github.com/CX0072/molan-desktop/releases/latest)下载；本页直链目前对应 0.1.6。
+> 后续版本请优先从[最新发行页](https://github.com/CX0072/molan-desktop/releases/latest)下载；本页直链目前对应 0.1.8。
 
 ## 适合怎样的作者？
 
